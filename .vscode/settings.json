@@ -1,0 +1,18 @@
+{
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3,
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "notebook.breadcrumbs.showCodeCells": true,
+    "breadcrumbs.icons": true,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "editor.stickyTabStops": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "chat.editor.fontWeight": "default",
+    "editor.fontWeight": "normal",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Cascadia Code, 'Courier New', monospace"
+}
